@@ -7,7 +7,7 @@ class Dog_class():
 
         # this is a special method
         # it comes defined either was but we can re-write it
-        # this methos stands for initialize class object AKA the constructor in other languages
+        # this methods stands for initializing class object AKA the constructor in other languages
         # allow us to set attribute to our Dog objects
         # ... Like.. the poor thing doesn't even have a name :(
         # we should give it name... possibly Max :)
