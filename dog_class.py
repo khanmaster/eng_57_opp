@@ -36,8 +36,8 @@ class Dog_class():
         def fetch(self):
             return "WHERE THAT BALL AT? --- I'ma get that ball!!"
 
-        def potty(self):
-            return "UHHHHH!!! AHAHHHH! 0_o UUHHH!!  ..... O_O .. :) o.o ..  "
+        def wondering(self):
+            return "blah!! blah! 0_o woof!!  ..... O_O .. :) o.o ..  "
 
     # This print should not be here.
     # In this file you define the class dog and add attributes and method to the class
