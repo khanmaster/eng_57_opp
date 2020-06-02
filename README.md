@@ -26,3 +26,11 @@ use of inheritance
 Polymorthism
 what is class polymorthism?
 what is method polymorthism?
+
+
+
+## what is __name__ & __main__ in python and why we need it
+
+### what is the benefit of __name__ and __main__ when importing
+
+### They are part of python execution/interpreter engine and set these variables before running any other code within a file/function/method
